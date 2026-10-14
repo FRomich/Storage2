@@ -175,14 +175,17 @@
             <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ipDc6Y-Ubkc_qcaDJt_h-77" parent="ipDc6Y-Ubkc_qcaDJt_h-42" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="-m_settings : AppSettings&amp;" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
         <mxCell id="ipDc6Y-Ubkc_qcaDJt_h-43" parent="ipDc6Y-Ubkc_qcaDJt_h-42" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">
-          <mxGeometry height="8" width="160" y="26" as="geometry" />
+          <mxGeometry height="8" width="160" y="52" as="geometry" />
         </mxCell>
         <mxCell id="ipDc6Y-Ubkc_qcaDJt_h-44" parent="ipDc6Y-Ubkc_qcaDJt_h-42" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="- saveSettings() : void" vertex="1">
-          <mxGeometry height="26" width="160" y="34" as="geometry" />
+          <mxGeometry height="26" width="160" y="60" as="geometry" />
         </mxCell>
         <mxCell id="ipDc6Y-Ubkc_qcaDJt_h-45" parent="ipDc6Y-Ubkc_qcaDJt_h-42" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="- loadSettings() : void" vertex="1">
-          <mxGeometry height="26" width="160" y="60" as="geometry" />
+          <mxGeometry height="26" width="160" y="86" as="geometry" />
         </mxCell>
         <mxCell id="ipDc6Y-Ubkc_qcaDJt_h-47" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ipDc6Y-Ubkc_qcaDJt_h-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.172;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" target="ipDc6Y-Ubkc_qcaDJt_h-42">
           <mxGeometry relative="1" as="geometry" />

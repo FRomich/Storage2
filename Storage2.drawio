@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Страница-1">
-    <mxGraphModel dx="2603" dy="2147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1542" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -295,10 +295,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ipDc6Y-Ubkc_qcaDJt_h-75" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ipDc6Y-Ubkc_qcaDJt_h-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.991;entryY=0.093;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" target="ipDc6Y-Ubkc_qcaDJt_h-58" value="creates">
-          <mxGeometry relative="1" x="-0.5167" as="geometry">
+          <mxGeometry relative="1" x="-0.5032" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="248" />
-              <mxPoint x="180" y="181.4" />
+              <mxPoint x="180" y="186.3" />
             </Array>
             <mxPoint x="250" y="270" as="sourcePoint" />
             <mxPoint x="180" y="400" as="targetPoint" />
